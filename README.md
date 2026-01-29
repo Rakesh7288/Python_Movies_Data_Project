@@ -41,11 +41,17 @@ Jupyter Notebook
 # 🔍 Key Analysis Performed
 
 ✔ Data cleaning and preprocessing
+
 ✔ Handling missing values
+
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Trend analysis across decades
+
 ✔ Revenue and rating comparisons
+
 ✔ Actor and director performance evaluation
+
 ✔ Visualization for insight communication
 
 # 📊 Key Insights
