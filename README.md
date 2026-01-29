@@ -28,13 +28,13 @@ Source: Academic project dataset
 
 # 🛠 Tools & Technologies Used
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
 Jupyter Notebook
 
@@ -50,16 +50,16 @@ Jupyter Notebook
 
 # 📊 Key Insights
 
-Some major insights derived from the analysis:
+* Some major insights derived from the analysis:
 
-Certain genres consistently dominate movie production and popularity
+* Certain genres consistently dominate movie production and popularity
 
-High-rated movies tend to perform better commercially
+* High-rated movies tend to perform better commercially
 
-Movie production increased significantly in recent decades
+* Movie production increased significantly in recent decades
 
-Popular actors and directors have a measurable impact on collections
+* Popular actors and directors have a measurable impact on collections
 
-Revenue patterns vary across time periods
+* Revenue patterns vary across time periods
 
 (Detailed insights available inside the notebook)
